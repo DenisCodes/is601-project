@@ -8,8 +8,8 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 | Date        | Denis Smirnov | Ka Chun Ho | Walther Mejia-Contreras |
 |-------------|-----------|-----------|-----------|
-| Nov 8 (Wed) |           |     x       |           |
-| Nov 10 (Fri)|           |     x      |           |
+| Nov 8 (Wed) |           |     x       |     x      |
+| Nov 10 (Fri)|           |     x      |     x      |
 | Nov 14 (Tue)|           |           |           |
 | Nov 16 (Thur)|           |           |           |
 | *Nov 22 (Wed)* |       |           |           |  <!-- Skipped for Thanksgiving -->
