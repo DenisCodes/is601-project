@@ -10,7 +10,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 |-------------|-----------|-----------|-----------|
 | Nov 8 (Wed) |      x     |     x      |     x      |
 | Nov 10 (Fri)|      x     |     x      |     x      |
-| Nov 14 (Tue)|          |     x      |           |
+| Nov 14 (Tue)|     x     |     x      |           |
 | Nov 16 (Thur)|         |           |           |
 | *Nov 22 (Wed)* |       |           |           |  <!-- Skipped for Thanksgiving -->
 | *Nov 24 (Fri)* |       |           |           |  <!-- Skipped for Thanksgiving -->
