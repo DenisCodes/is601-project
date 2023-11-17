@@ -1,4 +1,4 @@
-2.      SWOT Analysis - Identify the Strengths Weaknesses Opportunities, and Threats for your own business to describe your ideas of how your business will more effectively use their brand archetype and methods of persuasion. 
+SWOT Analysis - Identify the Strengths Weaknesses Opportunities, and Threats for your own business to describe your ideas of how your business will more effectively use their brand archetype and methods of persuasion.
 
 Strengths:
     Authentic Website Ambiance: Leverage the website's design to reflect the authentic Italian atmosphere, providing a preview of the unique dining experience.
