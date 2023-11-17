@@ -39,5 +39,4 @@ https://github.com/DenisCodes/is601-project/blob/main/templates/3rd%20Competitiv
 
 SWOT Analysis: https://github.com/DenisCodes/is601-project/blob/main/templates/SWOT%20Analysis.md
 
-
-[User Story](https://github.com/DenisCodes/is601-project/blob/main/templates/user%20stories.md)
+Initial set of user stories at the Initiative and Epic level. [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/user%20stories.md)
