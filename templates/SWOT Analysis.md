@@ -14,3 +14,8 @@ Opportunities:
     Virtual Culinary Events Page: Create a section for virtual culinary events, such as themed nights, cooking classes, or food festivals, to broaden the website's appeal.
     Expanded Online Presence: Develop the website and social media integration to reach a wider demographic, enhancing the overall online presence.
     Collaborations Hub: Establish a webpage for collaborations, showcasing partnerships with local businesses or influencers to increase visibility.
+
+Threats:
+    Competitive Online Presence: Rising competition in the online space from other Italian restaurants or diverse culinary options.
+    Economic Downturn Impact: Potential shifts in customer dining habits due to economic fluctuations.
+    Reputation Management: The website should actively address and manage negative reviews or unfavorable word-of-mouth.
