@@ -32,3 +32,14 @@ Implement an intuitive and efficient online reservation and ordering system to e
 ### Tasks
 * Secure Ordering Process: Provide a secure and straightforward online ordering process with options for customization and special requests.
 * User-Friendly Access Points: Enable easy access to the reservation system from various sections of the website, including the homepage and menu pages.
+
+
+## Accessibility and Performance Optimization Epic:
+
+### Objective
+Ensure the website is accessible, responsive, and performs optimally for a seamless user experience.
+### Tasks
+* Accessibility Testing: Conduct thorough testing to guarantee accessibility for users with disabilities.
+* Performance Optimization: Optimize website performance, including page loading speed and responsiveness, for a positive user experience.
+* Security Measures: Implement security measures to protect user data and ensure a safe online interaction.
+
