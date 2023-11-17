@@ -30,8 +30,11 @@ Each student should put an 'X' under their name on the days they have meetings.
 Final Business Analysis
 
 Competitive Analysis:
+
 https://github.com/DenisCodes/is601-project/blob/main/templates/Competitive%20Analysis.md
+
 https://github.com/DenisCodes/is601-project/blob/main/templates/2nd%20Competitive%20Analysis.md
+
 https://github.com/DenisCodes/is601-project/blob/main/templates/3rd%20Competitive%20Analysis.md
 
 SWOT Analysis: https://github.com/DenisCodes/is601-project/blob/main/templates/SWOT%20Analysis.md
