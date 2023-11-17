@@ -26,3 +26,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Dec 12 (Tue)|           |           |           |
 
 *Instructions: Please place an 'X' in the cell under your name corresponding to the dates you attend class.*
+
+Final Business Analysis
+
+SWOT Analysis: https://github.com/DenisCodes/is601-project/blob/main/templates/SWOT%20Analysis.md
