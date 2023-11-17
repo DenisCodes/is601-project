@@ -24,3 +24,11 @@ Develop a visually stunning website that captures the warmth and charm of the tr
 * Media Integration: Incorporate high-quality visuals, including images and videos, to showcase the restaurant's ambiance, exterior, interior, and signature dishes.
 
 
+
+## Online Reservation and Ordering System Epic:
+
+### Objective
+Implement an intuitive and efficient online reservation and ordering system to enhance user convenience.
+### Tasks
+* Secure Ordering Process: Provide a secure and straightforward online ordering process with options for customization and special requests.
+* User-Friendly Access Points: Enable easy access to the reservation system from various sections of the website, including the homepage and menu pages.
