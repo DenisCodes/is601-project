@@ -39,4 +39,6 @@ https://github.com/DenisCodes/is601-project/blob/main/templates/3rd%20Competitiv
 
 SWOT Analysis: https://github.com/DenisCodes/is601-project/blob/main/templates/SWOT%20Analysis.md
 
+Customer Journey or Sales Funnel describing how your business site will operate at a high level to address the Sales Funnel stages [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/Customer%20Journey.md)
+
 Initial set of user stories at the Initiative and Epic level. [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/user%20stories.md)
