@@ -7,3 +7,5 @@ Consideration: Maria has tried Olive Garden, Pizza Hut and Domino’s but none o
 Decision: Maria has narrowed down her options. She has read reviews online that talk about a new restaurant in town that resembles a rustic Italian trattoria which is priced well and provides quality Italian food. 
 
 Retention: Maria has received quality customer service, loved the restaurant’s environment, did not spend that much and is a fan of the restaurant’s Menu. She had the option to sign up for a rewards program that provided her with a free pizza after she went to the restaurant a few times. 
+
+Advocacy: Maria is now telling all of her friends about this new Italian restaurant in town that she went to over the weekend and has even invited some of her friends to go with her next time. 
