@@ -12,7 +12,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Nov 10 (Fri)|      x     |     x      |     x      |
 | Nov 14 (Tue)|     x     |     x      |     x      |
 | Nov 16 (Thur)|     x    |     x      |    x       |
-| *Nov 22 (Wed)* |       |           |           |  <!-- Skipped for Thanksgiving -->
+| *Nov 22 (Wed)* |       |      x     |           |  <!-- Skipped for Thanksgiving -->
 | *Nov 24 (Fri)* |       |           |           |  <!-- Skipped for Thanksgiving -->
 
 ### December 2023
