@@ -29,3 +29,11 @@ Maria Explores the Menu and Testimonials.
 Action: Navigate through the trattoria's menu pages and read customer testimonials next to each dish. 
 
 Result: View the company’s menu and testimonials. 
+
+User Story 4: 
+
+Maria Subscribes for Regular Updates.
+
+Action: Click on sign up for newsletters or updates from the trattoria.
+
+Result: User receives regular updates about themed nights, special events, and exclusive offers.
