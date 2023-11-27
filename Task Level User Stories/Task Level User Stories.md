@@ -90,3 +90,11 @@ Action: Click on “Subscribe for more offers”
 
 Result: User receives follow-up emails with exclusive recipes and invites to future themed nights.
 
+User Story 10: 
+
+Maria Joins Loyalty Program.
+
+Action: Click on “Join Loyalty Program”
+
+Result: Users enjoy benefits and rewards highlighted as a list on the website for their loyalty.
+
