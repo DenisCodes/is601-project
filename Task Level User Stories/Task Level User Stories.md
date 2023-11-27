@@ -37,3 +37,15 @@ Maria Subscribes for Regular Updates.
 Action: Click on sign up for newsletters or updates from the trattoria.
 
 Result: User receives regular updates about themed nights, special events, and exclusive offers.
+
+
+
+Decision Epic:
+
+User Story 5 
+
+Maria Makes a Seamless Reservation.
+
+Action: Click on the “Make a Reservation” button which takes you to a page with the dates and times available. 
+
+Result: User secures a table reservation for the selected time and date.
