@@ -17,3 +17,15 @@ Maria sees the description of the Rustic Italian Trattoria in the search results
 Action: The search result description says "Get a taste of Italy at home!"
 
 Result: Not Applicable Informational Text
+
+
+
+Consideration Epic: 
+
+User Story 3 
+
+Maria Explores the Menu and Testimonials.
+
+Action: Navigate through the trattoria's menu pages and read customer testimonials next to each dish. 
+
+Result: View the company’s menu and testimonials. 
