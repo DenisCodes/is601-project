@@ -77,3 +77,16 @@ Maria Explores Personalized Culinary Offerings
 Action: Click on “personalized dining experiences and exclusive off-menu specials”
 
 Result: User received a list of exclusive experiences within the restaurant. 
+
+
+
+Advocacy Epic: 
+
+User Story 9: 
+
+Maria Engages Post website Visit.
+
+Action: Click on “Subscribe for more offers”
+
+Result: User receives follow-up emails with exclusive recipes and invites to future themed nights.
+
