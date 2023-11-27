@@ -49,3 +49,11 @@ Maria Makes a Seamless Reservation.
 Action: Click on the “Make a Reservation” button which takes you to a page with the dates and times available. 
 
 Result: User secures a table reservation for the selected time and date.
+
+User Story 6 
+
+Maria Interacts with Trattoria's Staff
+
+Action: Click on the “Contact Us” button to show the company’s email.
+
+Result: User contacts associates of the company. 
