@@ -69,3 +69,11 @@ Maria Experiences Trattoria's Ambiance through the website
 Action: User visualizes the page’s visuals.
 
 Result: User immerses itself in the warm and authentic ambiance portrayed through visuals and descriptions.
+
+User Story 8: 
+
+Maria Explores Personalized Culinary Offerings 
+
+Action: Click on “personalized dining experiences and exclusive off-menu specials”
+
+Result: User received a list of exclusive experiences within the restaurant. 
