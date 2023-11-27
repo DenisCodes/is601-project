@@ -57,3 +57,15 @@ Maria Interacts with Trattoria's Staff
 Action: Click on the “Contact Us” button to show the company’s email.
 
 Result: User contacts associates of the company. 
+
+
+
+Retention Epic:  
+
+User Story 7: 
+
+Maria Experiences Trattoria's Ambiance through the website
+
+Action: User visualizes the page’s visuals.
+
+Result: User immerses itself in the warm and authentic ambiance portrayed through visuals and descriptions.
