@@ -45,5 +45,5 @@ Customer Journey or Sales Funnel describing how your business site will operate 
 
 Initial set of user stories at the Initiative and Epic level. [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/user%20stories.md)
 
-Figma Design Frames: https://github.com/wwmm25/is601-project/tree/main/figma-design/figma-screenshot
+Figma Design Frames: https://github.com/DenisCodes/is601-project/tree/main/figma-design/figma-screenshot
 
