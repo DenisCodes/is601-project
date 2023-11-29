@@ -44,3 +44,6 @@ One Persona that represents one target customer that you are targeting with your
 Customer Journey or Sales Funnel describing how your business site will operate at a high level to address the Sales Funnel stages [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/Customer%20Journey.md)
 
 Initial set of user stories at the Initiative and Epic level. [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/user%20stories.md)
+
+Figma Design Frames: https://github.com/wwmm25/is601-project/tree/main/figma-design/figma-screenshot
+
