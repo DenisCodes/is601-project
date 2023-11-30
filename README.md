@@ -27,24 +27,3 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 *Instructions: Please place an 'X' in the cell under your name corresponding to the dates you attend class.*
 
-Final Business Analysis
-
-Competitive Analysis:
-
-https://github.com/DenisCodes/is601-project/blob/main/templates/Competitive%20Analysis.md
-
-https://github.com/DenisCodes/is601-project/blob/main/templates/2nd%20Competitive%20Analysis.md
-
-https://github.com/DenisCodes/is601-project/blob/main/templates/3rd%20Competitive%20Analysis.md
-
-SWOT Analysis: https://github.com/DenisCodes/is601-project/blob/main/templates/SWOT%20Analysis.md
-
-One Persona that represents one target customer that you are targeting with your archetype and methods of persuasion. [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/Persona.md)
-
-Customer Journey or Sales Funnel describing how your business site will operate at a high level to address the Sales Funnel stages [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/Customer%20Journey.md)
-
-Initial set of user stories at the Initiative and Epic level. [Visit](https://github.com/DenisCodes/is601-project/blob/main/templates/user%20stories.md)
-
-Figma Design Frames: https://github.com/DenisCodes/is601-project/tree/main/figma-design/figma-screenshot
-
-Task Level User Stories: https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md
