@@ -20,7 +20,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Date        | Denis Smirnov | Ka Chun Ho | Walther Mejia-Contreras |
 |-------------|-----------|-----------|-----------|
 | Nov 28 (Tue)|           |     x      |     x      |
-| Nov 31 (Thur) |         |           |           |
+| Nov 31 (Thur) |         |           |     x      |
 | Dec 5 (Tue) |           |           |           |
 | Dec 7 (Thur) |          |           |           |
 | Dec 12 (Tue)|           |           |           |
