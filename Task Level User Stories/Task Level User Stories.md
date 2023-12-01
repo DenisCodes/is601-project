@@ -1,100 +1,100 @@
-Task Level User Stories:
+# Task Level User Stories:
 
-Awareness Epic:
+## Awareness Epic:
 
-User story 1
+### User story 1
 
 Maria sees the title of the website in the search results.
 
-Action: Click on the title "Rustic Italian Trattoria"
+* Action: Click on the title "Rustic Italian Trattoria"
 
-Result: View website homepage.
+* Result: View website homepage.
 
-User Story 2
+### User Story 2
 
 Maria sees the description of the Rustic Italian Trattoria in the search results page.
 
-Action: The search result description says "Get a taste of Italy at home!"
+* Action: The search result description says "Get a taste of Italy at home!"
 
-Result: Not Applicable Informational Text
+* Result: Not Applicable Informational Text
 
 
 
-Consideration Epic: 
+##  Consideration Epic: 
 
-User Story 3 
+### User Story 3 
 
 Maria Explores the Menu and Testimonials.
 
-Action: Navigate through the trattoria's menu pages and read customer testimonials next to each dish. 
+* Action: Navigate through the trattoria's menu pages and read customer testimonials next to each dish. 
 
-Result: View the company’s menu and testimonials. 
+* Result: View the company’s menu and testimonials. 
 
-User Story 4: 
+### User Story 4: 
 
 Maria Subscribes for Regular Updates.
 
-Action: Click on sign up for newsletters or updates from the trattoria.
+* Action: Click on sign up for newsletters or updates from the trattoria.
 
-Result: User receives regular updates about themed nights, special events, and exclusive offers.
+* Result: User receives regular updates about themed nights, special events, and exclusive offers.
 
 
 
-Decision Epic:
+##  Decision Epic:
 
-User Story 5 
+### User Story 5 
 
 Maria Makes a Seamless Reservation.
 
-Action: Click on the “Make a Reservation” button which takes you to a page with the dates and times available. 
+* Action: Click on the “Make a Reservation” button which takes you to a page with the dates and times available. 
 
-Result: User secures a table reservation for the selected time and date.
+* Result: User secures a table reservation for the selected time and date.
 
-User Story 6 
+### User Story 6 
 
 Maria Interacts with Trattoria's Staff
 
-Action: Click on the “Contact Us” button to show the company’s email.
+* Action: Click on the “Contact Us” button to show the company’s email.
 
-Result: User contacts associates of the company. 
+* Result: User contacts associates of the company. 
 
 
 
-Retention Epic:  
+##  Retention Epic:  
 
-User Story 7: 
+### User Story 7: 
 
 Maria Experiences Trattoria's Ambiance through the website
 
-Action: User visualizes the page’s visuals.
+* Action: User visualizes the page’s visuals.
 
-Result: User immerses itself in the warm and authentic ambiance portrayed through visuals and descriptions.
+* Result: User immerses itself in the warm and authentic ambiance portrayed through visuals and descriptions.
 
-User Story 8: 
+### User Story 8: 
 
 Maria Explores Personalized Culinary Offerings 
 
-Action: Click on “personalized dining experiences and exclusive off-menu specials”
+* Action: Click on “personalized dining experiences and exclusive off-menu specials”
 
-Result: User received a list of exclusive experiences within the restaurant. 
+* Result: User received a list of exclusive experiences within the restaurant. 
 
 
 
-Advocacy Epic: 
+##  Advocacy Epic: 
 
-User Story 9: 
+### User Story 9: 
 
 Maria Engages Post website Visit.
 
-Action: Click on “Subscribe for more offers”
+* Action: Click on “Subscribe for more offers”
 
-Result: User receives follow-up emails with exclusive recipes and invites to future themed nights.
+* Result: User receives follow-up emails with exclusive recipes and invites to future themed nights.
 
-User Story 10: 
+### User Story 10: 
 
 Maria Joins Loyalty Program.
 
-Action: Click on “Join Loyalty Program”
+* Action: Click on “Join Loyalty Program”
 
-Result: Users enjoy benefits and rewards highlighted as a list on the website for their loyalty.
+* Result: Users enjoy benefits and rewards highlighted as a list on the website for their loyalty.
 
