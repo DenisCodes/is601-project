@@ -27,3 +27,12 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 *Instructions: Please place an 'X' in the cell under your name corresponding to the dates you attend class.*
 
+
+
+## Links to documents
+
+[Final Business Analysis](https://github.com/DenisCodes/is601-project/blob/main/Documentations_Links.md)
+
+[Task Level User Stories](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
+
+[Figma Design](https://www.figma.com/file/G5rlxJFR4ShAKgxRNkozye/Italian-restaurant-Home-Page?type=design&node-id=0-1&mode=design&t=Ox7mfhSP5ymYB0HQ-0)
