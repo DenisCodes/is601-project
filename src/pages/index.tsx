@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 function HomeNav(){
   return (
-    <>
+    <NextUIProvider>
       <Navbar />
       <Head>
         <title>Create Next App</title>
@@ -113,7 +113,7 @@ function HomeNav(){
           </a>
         </div>
       </main>
-    </>
+    </NextUIProvider>
   )
 }
 
