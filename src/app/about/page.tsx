@@ -1,3 +1,5 @@
+
+'use client'
 import {NextUIProvider} from "@nextui-org/react";
 import Navbar from '../components/navbar';
 

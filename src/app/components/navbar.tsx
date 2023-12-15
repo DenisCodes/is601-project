@@ -1,6 +1,5 @@
-// Navbar.tsx
 import Link from 'next/link';
-import { useRouter } from 'next/router';
+// import { useRouter } from 'next/router';
 
 const Navbar: React.FC = () => {
   return (
@@ -19,10 +18,11 @@ const Navbar: React.FC = () => {
 };
 
 const NavLink: React.FC<{ text: string, href: string }> = ({ text, href }) => {
-  const { pathname } = useRouter();
+  // const { pathname } = useRouter();
 
-  // Determine if the current page matches the link
-  const isActive = pathname === href || '';
+  // // Determine if the current page matches the link
+  // const isActive = pathname === href || '';
+  const isActive = true;
 
   return (
     <Link href={href} className={`text-white ${isActive ? 'underline' : ''} hover:text-gray-300`}>
