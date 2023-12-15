@@ -1,6 +1,7 @@
 'use client'
 import {NextUIProvider} from "@nextui-org/react";
 import Navbar from '../components/navbar';
+import NewsLetter from "../components/newsletter";
 
 function ContactNav(){
   return (
@@ -13,8 +14,9 @@ function ContactNav(){
 export default function Contact() {
   return (
     <NextUIProvider>
-        <Navbar />
-        <ContactNav/>
+      <Navbar />
+      <ContactNav/>
+      <NewsLetter/>
     </NextUIProvider>
   )
 }
