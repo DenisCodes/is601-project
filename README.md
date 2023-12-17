@@ -36,3 +36,5 @@ Each student should put an 'X' under their name on the days they have meetings.
 [Task Level User Stories](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
 
 [Figma Design](https://www.figma.com/file/G5rlxJFR4ShAKgxRNkozye/Italian-restaurant-Home-Page?type=design&node-id=0-1&mode=design&t=Ox7mfhSP5ymYB0HQ-0)
+
+[UX_Research_Report](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/UX_Research_Report)
