@@ -13,3 +13,5 @@ Initial set of user stories at the Initiative and Epic level. [Visit](https://gi
 Figma Design Frames: [Visit](https://github.com/DenisCodes/is601-project/tree/main/figma-design/figma-screenshot)
 
 Task Level User Stories: [Visit](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
+
+UX Research Report: [Visit](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/UX_Research_Report)
