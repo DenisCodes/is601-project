@@ -14,4 +14,4 @@ Figma Design Frames: [Visit](https://github.com/DenisCodes/is601-project/tree/ma
 
 Task Level User Stories: [Visit](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
 
-UX Research Report: [Visit](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/UX_Research_Report)
+UX Research Report: [Visit](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/UX_Research_Report.md)
