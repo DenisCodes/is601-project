@@ -14,3 +14,8 @@ Maria has received quality customer service, loved the restaurant’s environmen
 
 ## Advocacy: 
 Maria is now telling all of her friends about this new Italian restaurant in town that she went to over the weekend and has even invited some of her friends to go with her next time. 
+
+
+## Diagram
+
+![Alt text here](../images/SFD.png)
