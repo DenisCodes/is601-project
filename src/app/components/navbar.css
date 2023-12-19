@@ -1,0 +1,10 @@
+.text-custom-style {
+    color: #000;
+    font-family: 'Allura';
+    font-size: 64px;
+    font-style: italic; 
+}
+.nav-item {
+    color: black;
+    font-size: 18px;
+}
