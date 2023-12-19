@@ -2,6 +2,7 @@
 import {NextUIProvider} from "@nextui-org/react";
 import Navybar from '../components/navbar';
 import NewsLetter from "../components/newsletter";
+import Footer from '../components/footer';
 
 function ContactNav(){
   return (
@@ -17,6 +18,7 @@ export default function Contact() {
       <Navybar />
       <ContactNav/>
       <NewsLetter/>
+      <Footer />
     </NextUIProvider>
   )
 }

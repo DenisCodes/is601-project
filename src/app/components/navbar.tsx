@@ -9,7 +9,7 @@ import './navbar.css'
 
 const Navybar: React.FC = () => {
   return (
-    <NextUINavbar maxWidth="xl" position="sticky" style={{ backgroundColor: "#FCAC45" }}>
+    <NextUINavbar maxWidth="xl" position="sticky" style={{ backgroundColor: "#B76D38" }}>
 			<NavbarContent className="basis-1/5 sm:basis-full" justify="start">
 				<NavbarBrand className="gap-3 max-w-fit">
 					<NextLink className="flex justify-start items-center gap-1" href="/">
