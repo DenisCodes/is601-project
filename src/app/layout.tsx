@@ -1,10 +1,8 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
 import GoogleAnalytics from './components/googleAnalytics';
 import CookieBanner from './components/cookieBanner';
+import {Providers} from "./providers";
 import './globals.css'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -19,9 +17,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <GoogleAnalytics GA_MEASUREMENT_ID="G-FX58PLBH7Y"/>
-      <body className={inter.className}>
-        {children}
-        <CookieBanner/>
+      <body>
+        <Providers>
+          {children}
+          <CookieBanner/>
+        </Providers>
       </body>
     </html>
   )

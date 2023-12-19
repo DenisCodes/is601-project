@@ -1,6 +1,6 @@
 'use client'
 import {NextUIProvider} from "@nextui-org/react";
-import Navbar from '../components/navbar';
+import Navybar from '../components/navbar';
 
 function MenuNav(){
   return (
@@ -13,7 +13,7 @@ function MenuNav(){
 export default function Menu() {
   return (
     <NextUIProvider>
-        <Navbar />
+        <Navybar />
         <MenuNav/>
     </NextUIProvider>
   )

@@ -1,34 +1,60 @@
-import Link from 'next/link';
-// import { useRouter } from 'next/router';
+import {
+	Navbar as NextUINavbar,
+	NavbarContent,
+	NavbarBrand,
+	NavbarItem,
+} from "@nextui-org/react";
+import NextLink from "next/link";
+import './navbar.css'
 
-const Navbar: React.FC = () => {
+const Navybar: React.FC = () => {
   return (
-    <nav className="bg-#983F3F p-4">
-      <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-white text-xl font-bold">Rustic Italian Trattoria</h1>
-        <div className="flex space-x-4">
-          <NavLink href="/" text="Home"></NavLink>
-          <NavLink href="/about" text="About Us"></NavLink>
-          <NavLink href="/menu" text="Menu"></NavLink>
-          <NavLink href="/contact" text="Contact Us"></NavLink>
-        </div>
-      </div>
-    </nav>
+    <NextUINavbar maxWidth="xl" position="sticky" style={{ backgroundColor: "#FCAC45" }}>
+			<NavbarContent className="basis-1/5 sm:basis-full" justify="start">
+				<NavbarBrand className="gap-3 max-w-fit">
+					<NextLink className="flex justify-start items-center gap-1" href="/">
+						<p className="font-bold text-inherit text-custom-style">
+              Rustic Italian Trattoria
+            </p>
+					</NextLink>
+				</NavbarBrand>
+				<div className="hidden lg:flex gap-4 justify-start ml-2">
+          <NavbarItem key={"home"}>
+            <NextLink
+              className="nav-item"
+              href={"/"}
+            >
+              Home
+            </NextLink>
+          </NavbarItem>
+          <NavbarItem key={"about"}>
+            <NextLink
+              className="nav-item"
+              href={"/about"}
+            >
+              About Us
+            </NextLink>
+          </NavbarItem>
+          <NavbarItem key={"menu"}>
+            <NextLink
+              className="nav-item"
+              href={"/menu"}
+            >
+              Menu
+            </NextLink>
+          </NavbarItem>
+          <NavbarItem key={"contact"}>
+            <NextLink
+              className="nav-item"
+              href={"/contact"}
+            >
+              Contact Us
+            </NextLink>
+          </NavbarItem>
+				</div>
+			</NavbarContent>
+		</NextUINavbar>
   );
 };
 
-const NavLink: React.FC<{ text: string, href: string }> = ({ text, href }) => {
-  // const { pathname } = useRouter();
-
-  // // Determine if the current page matches the link
-  // const isActive = pathname === href || '';
-  const isActive = true;
-
-  return (
-    <Link href={href} className={`text-white ${isActive ? 'underline' : ''} hover:text-gray-300`}>
-        {text}
-    </Link>
-  );
-};
-
-export default Navbar;
+export default Navybar;
