@@ -11,8 +11,8 @@ export default function Home() {
     <NextUIProvider>
       <div className="relative">
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center z-10 text-white">
-          <h1 className="text-4xl font-bold mb-8">Rustic Italian Trattoria</h1>
-          <p>Get a taste of Italy at home!</p>
+          <h1 className="font-bold mb-8">Rustic Italian Trattoria</h1>
+          <h3>Get a taste of Italy at home!</h3>
         </div>
         <div className="flex justify-center items-center mb-8">
           <div>
@@ -23,8 +23,12 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <AboutUs />
-      <Menus />
+      <div className="m-10 p-10">
+        <AboutUs />
+      </div>
+      <div className="m-10 p-10">
+        <Menus />
+      </div>
     </NextUIProvider>
   )
 }
