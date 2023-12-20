@@ -1,11 +1,7 @@
 'use client';
 import React from 'react';
 import { Card, CardBody } from '@nextui-org/react';
-import {Divider} from "@nextui-org/react";
 import Image from 'next/image';
-import Pasta from '../images/Frame23_Part1.png';
-import Pizza from '../images/Frame23_Part2.png';
-import Dessert from '../images/Frame23_Part3.png';
 import './Menus.css';
 
 export default function Menus() {
@@ -17,7 +13,7 @@ export default function Menus() {
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={350} src={Pasta} width={350} />
+              <Image alt="Album cover" className="object-cover" height={350} src='/images/Frame23_Part1.png' width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
@@ -39,7 +35,7 @@ export default function Menus() {
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={350} src={Pizza} width={350} />
+              <Image alt="Album cover" className="object-cover" height={350} src='/images/Frame23_Part2.png' width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
@@ -61,7 +57,7 @@ export default function Menus() {
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={350} src={Dessert} width={350} />
+              <Image alt="Album cover" className="object-cover" height={350} src='/images/Frame23_Part3.png' width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">

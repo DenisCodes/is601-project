@@ -1,8 +1,6 @@
 'use client'
-import { NextUIProvider } from "@nextui-org/react";
 import NewsLetter from "../components/newsletter";
 import Image from 'next/image'
-import Chef from '../images/Frame27.png';
 
 export default function Contact() {
   return (
@@ -14,7 +12,7 @@ export default function Contact() {
         </div>
 
         <div className="mr-10 p-10">
-          <Image src={Chef} alt="Chef" width={375} height={375} />
+          <Image src='/images/Frame27.png' alt="Chef" width={375} height={375} />
           <br></br>
           <div>If you have any questions about your order please call:</div>
           <br></br>
