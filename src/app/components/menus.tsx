@@ -13,7 +13,7 @@ export default function Menus() {
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={350} src='/images/Frame23_Part1.png' width={350} />
+              <Image alt="Spaghetti" className="object-cover" height={350} src='/images/Frame23_Part1.png' width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
@@ -35,7 +35,7 @@ export default function Menus() {
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={350} src='/images/Frame23_Part2.png' width={350} />
+              <Image alt="Pizza" className="object-cover" height={350} src='/images/Frame23_Part2.png' width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
@@ -57,7 +57,7 @@ export default function Menus() {
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={350} src='/images/Frame23_Part3.png' width={350} />
+              <Image alt="Tiramisu" className="object-cover" height={350} src='/images/Frame23_Part3.png' width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
