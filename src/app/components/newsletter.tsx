@@ -41,7 +41,7 @@ export default function NewsLetter({}: Props) {
           onConfettiComplete={() => setShowConfetti(false)}
         />
       )}
-      <div className="w-full p-5 md:p-6 space-y-5 bg-[#B76D38] rounded-xl md:max-w-[600px]">
+      <div className="w-full p-5 md:p-6 space-y-5 bg-[#CD9060] rounded-xl md:max-w-[600px]">
         {/* Header and description */}
         <div className="pb-2 space-y-3">
           <h2 className="text-2xl font-black sm:text-2.5xl">
