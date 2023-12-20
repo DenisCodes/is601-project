@@ -14,10 +14,10 @@ export default function Home() {
         </div>
         <div className="flex justify-center items-center mb-8">
           <div>
-            <Image src="/images/Frame22_part2.png" alt="Chef" width={1030} height={1030} />
+            <Image src="/images/Frame22_part2.png" alt="Chef" width={1030} height={1030} priority/>
           </div>
           <div>
-            <Image src="/images/Frame22_part1.png" alt="Chef" width={1000} height={1000} />
+            <Image src="/images/Frame22_part1.png" alt="Chef" width={1000} height={1000} priority/>
           </div>
         </div>
       </div>

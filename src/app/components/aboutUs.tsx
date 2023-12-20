@@ -22,7 +22,7 @@ export default function AboutUs() {
         </div>
 
         <div>
-            <Image src={'/images/Frame22 and 26.png'} alt="Chef" width={550} height={550} />
+            <Image src={'/images/Frame22 and 26.png'} alt="Chef" width={550} height={550} priority/>
         </div>
       </div>
     </div>
