@@ -44,6 +44,11 @@ h4 {
   font-style: italic; 
 }
 
+h5 {
+  color: #000;
+  font-size: 30px;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
