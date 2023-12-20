@@ -35,9 +35,9 @@ export default function CookieBanner(){
                             bg-gray-700 rounded-lg shadow`}>
 
                     <button className='text-gray-300 cursor-pointer' onClick={onOpen}>
-                        We use <span style={{ color: 'blue' }}>cookies</span> on our site.
+                        We use <span style={{ color: '#7fb3d5' }}>cookies</span> on our site.
                     </button>
-                    
+
                     <div className='flex gap-2'>
                         <button className='px-5 py-2 text-gray-300 rounded-md border-gray-900' onClick={() => setCookieConsent(false)}>Decline</button>
                         <button className='bg-gray-900 px-5 py-2 text-white rounded-lg' onClick={() => setCookieConsent(true)}>Allow Cookies</button>
