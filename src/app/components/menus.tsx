@@ -10,12 +10,14 @@ import './Menus.css';
 
 export default function Menus() {
   return (
-    <div className="flex justify-center items-center flex-col">
-      <Card className='border-none customCard'>
+    <div className="flex justify-center items-center flex-col mr-10 p-10">
+      <h1 className="flex justify-center items-center">Menu</h1>
+      <br></br>
+      <Card className='border-none customCard mr-10 p-10'>
         <CardBody>
-          <div className="grid grid-cols-6 md:grid-cols-12 gap-6 md:gap-4 items-center justify-center">
+          <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={200} src={Pasta} width={250} />
+              <Image alt="Album cover" className="object-cover" height={350} src={Pasta} width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
@@ -33,11 +35,11 @@ export default function Menus() {
         </CardBody>
       </Card>
 
-      <Card className='border-none customCard'>
+      <Card className='border-none customCard mr-10 p-10'>
         <CardBody>
-          <div className="grid grid-cols-6 md:grid-cols-12 gap-6 md:gap-4 items-center justify-center">
+          <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={200} src={Pizza} width={250} />
+              <Image alt="Album cover" className="object-cover" height={350} src={Pizza} width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">
@@ -55,11 +57,11 @@ export default function Menus() {
         </CardBody>
       </Card>
 
-      <Card className='border-none customCard'>
+      <Card className='border-none customCard mr-10 p-10'>
         <CardBody>
-          <div className="grid grid-cols-6 md:grid-cols-12 gap-6 md:gap-4 items-center justify-center">
+          <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
-              <Image alt="Album cover" className="object-cover" height={200} src={Dessert} width={250} />
+              <Image alt="Album cover" className="object-cover" height={350} src={Dessert} width={350} />
             </div>
 
             <div className="flex flex-col col-span-6 md:col-span-8">

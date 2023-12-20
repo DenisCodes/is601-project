@@ -23,8 +23,12 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <AboutUs />
-      <Menus />
+      <div className="m-10 p-10">
+        <AboutUs />
+      </div>
+      <div className="m-10 p-10">
+        <Menus />
+      </div>
     </NextUIProvider>
   )
 }

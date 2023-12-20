@@ -6,13 +6,13 @@ import Chef from '../images/Frame27.png';
 
 export default function Contact() {
   return (
-    <NextUIProvider>
-      <div className="flex justify-center items-center">
-        <div className="mr-4">
+    <div className="mr-10 p-10">
+      <div className="flex justify-center items-center mr-10 p-10">
+        <div className="mr-10 p-10">
           <NewsLetter />
         </div>
 
-        <div>
+        <div className="mr-10 p-10">
           <Image src={Chef} alt="Chef" width={375} height={375} />
           <br></br>
           <div>If you have any questions about your order please call:</div>
@@ -20,6 +20,8 @@ export default function Contact() {
           <div>(123) 456-7891</div>
         </div>
       </div>
-    </NextUIProvider>
+      <br></br>
+    </div>
+    
   );
 }
