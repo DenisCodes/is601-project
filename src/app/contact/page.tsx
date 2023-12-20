@@ -12,7 +12,7 @@ export default function Contact() {
         </div>
 
         <div className="mr-10 p-10">
-          <Image src='/images/Frame27.png' alt="Chef" width={375} height={375} />
+          <Image src='/images/Frame27.png' alt="Chef" width={375} height={375} priority/>
           <br></br>
           <div>If you have any questions about your order please call:</div>
           <br></br>

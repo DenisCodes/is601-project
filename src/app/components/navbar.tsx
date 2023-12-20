@@ -1,7 +1,6 @@
 'use client'
 import {
 	Navbar as NextUINavbar,
-	NavbarContent,
 	NavbarBrand,
 	NavbarItem,
 } from "@nextui-org/react";

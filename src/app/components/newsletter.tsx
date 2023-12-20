@@ -1,6 +1,6 @@
 "use client";
-import React, { useState, useRef, useEffect } from "react";
-import { Formik, Form, Field, ErrorMessage } from "formik";
+import React, { useState, useEffect } from "react";
+import { Formik, Form, Field } from "formik";
 import {Button, Input, Textarea} from "@nextui-org/react";
 import * as Yup from "yup";
 import Confetti from "react-confetti";
@@ -42,14 +42,12 @@ export default function NewsLetter({}: Props) {
         />
       )}
       <div className="w-full p-5 md:p-6 space-y-5 bg-[#CD9060] rounded-xl md:max-w-[600px]">
-        {/* Header and description */}
         <div className="pb-2 space-y-3">
           <h2 className="text-2xl font-black sm:text-2.5xl">
             Contact Our Incredible Team!
           </h2>
         </div>
 
-        {/* Formik */}
         <Formik
           initialValues={{
             email: "",
@@ -103,23 +101,13 @@ export default function NewsLetter({}: Props) {
             }
           }}
         >
-          {/* <Field
-                label="Email"
-                type="email"
-                name="email"
-                as={Input}
-                placeholder="Enter your email"
-                autoComplete="off"
-              /> */}
           <Form>
           <div className="grid grid-cols-1 md:grid-cols-1 gap-4">
-              {/* First and Last Name */}
               <div className="flex space-x-4">
                 <Input type="first" label="First Name" placeholder="Enter your first name" name="firstName" />
                 <Input type="last" label="Last Name" placeholder="Enter your last name" name="lastName" />
               </div>
 
-              {/* Email */}
               <Field
                 label="Email"
                 type="email"
@@ -129,10 +117,8 @@ export default function NewsLetter({}: Props) {
                 autoComplete="off"
               />
 
-              {/* Comments */}
               <Textarea type="comments" label="Comments" placeholder="Enter your comments" name="comments" />
 
-              {/* Submit Button */}
               <Button
                 className="px-5 py-3 font-bold text-[#FAFF00] transition-all bg-[#770707] rounded-lg hover:scale-105"
                 type="submit"
