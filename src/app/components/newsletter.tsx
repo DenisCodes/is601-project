@@ -152,7 +152,6 @@ export default function NewsLetter({}: Props) {
             )}
           </Form>
         </Formik>
-        <br></br>
       </div>
     </>
   );

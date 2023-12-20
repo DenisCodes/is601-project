@@ -16,6 +16,34 @@
   }
 }
 
+h1 {
+  color: #fff;
+  font-family: 'Allura';
+  font-size: 95px;
+  font-style: italic; 
+  text-shadow: 0px 0px 4px #000;
+}
+
+h2 {
+  color: #000;
+  font-family: 'Allura';
+  font-size: 50px;
+  font-style: italic; 
+}
+
+h3 {
+  color: #fff;
+  font-size: 50px;
+  text-shadow: 0px 0px 4px #000;
+}
+
+h4 {
+  font-family: 'Allura';
+  color: #000;
+  font-size: 30px;
+  font-style: italic; 
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(

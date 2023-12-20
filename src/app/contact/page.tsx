@@ -7,6 +7,7 @@ import Chef from '../images/Frame27.png';
 export default function Contact() {
   return (
     <div className="mr-10 p-10">
+      <h2 className="flex justify-center items-center">Contact Us</h2>
       <div className="flex justify-center items-center mr-10 p-10">
         <div className="mr-10 p-10">
           <NewsLetter />

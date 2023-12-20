@@ -7,7 +7,7 @@ export default function AboutUs() {
     <div>
         <div className="flex justify-center items-center">
         <div className="mr-10 p-10">
-            <div>About Us</div>
+            <h2>About Us</h2>
             <br></br>
             <div className="max-w-[450px]">
                 The top cooks in town have arrived! Don&#39;t pass up the chance to eat at a restaurant that will transport you to Italy, not just through the cuisine, but also via the atmosphere! We were able to introduce a secret family recipe to our restaurant so that the rest of the globe may taste authentic Italian cuisine!

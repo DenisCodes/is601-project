@@ -22,7 +22,7 @@ const Navybar: React.FC = () => {
 				<div className="hidden lg:flex gap-4 justify-start ml-2">
           <NavbarItem key={"home"}>
             <NextLink
-              className="nav-item"
+              className="nav-item text-md"
               href={"/"}
             >
               Home
@@ -30,7 +30,7 @@ const Navybar: React.FC = () => {
           </NavbarItem>
           <NavbarItem key={"about"}>
             <NextLink
-              className="nav-item"
+              className="nav-item text-md"
               href={"/about"}
             >
               About Us
@@ -38,7 +38,7 @@ const Navybar: React.FC = () => {
           </NavbarItem>
           <NavbarItem key={"menu"}>
             <NextLink
-              className="nav-item"
+              className="nav-item text-md"
               href={"/menu"}
             >
               Menu
@@ -46,7 +46,7 @@ const Navybar: React.FC = () => {
           </NavbarItem>
           <NavbarItem key={"contact"}>
             <NextLink
-              className="nav-item"
+              className="nav-item text-md"
               href={"/contact"}
             >
               Contact Us

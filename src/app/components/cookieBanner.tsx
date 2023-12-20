@@ -37,7 +37,7 @@ export default function CookieBanner(){
                          bg-gray-700 rounded-lg shadow`}>
 
             <div className='text-center'>
-                <h1><p>We use cookies on our site.</p></h1>
+                <p>We use cookies on our site.</p>
             </div>
 
             
