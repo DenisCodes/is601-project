@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useRef, useEffect } from "react";
 import { Formik, Form, Field, ErrorMessage } from "formik";
+import {Button, Input, Textarea} from "@nextui-org/react";
 import * as Yup from "yup";
 import Confetti from "react-confetti";
 
@@ -40,18 +41,12 @@ export default function NewsLetter({}: Props) {
           onConfettiComplete={() => setShowConfetti(false)}
         />
       )}
-      <div className="w-full p-5 md:p-6 space-y-5 bg-white shadow-md rounded-xl md:max-w-[600px]">
+      <div className="w-full p-5 md:p-6 space-y-5 bg-[#B76D38] rounded-xl md:max-w-[600px]">
         {/* Header and description */}
         <div className="pb-2 space-y-3">
           <h1 className="text-2xl font-black sm:text-2.5xl">
-            Subscribe to Newsletter!
+            Contact Our Incredible Team!
           </h1>
-          <p className="text-gray-600">
-            Receive notifications of high-quality articles about frontend
-            development and other relevant topics delivered straight to your
-            inbox. You will receive a monthly email from me, ensuring a
-            spam-free experience.
-          </p>
         </div>
 
         {/* Formik */}
@@ -108,22 +103,43 @@ export default function NewsLetter({}: Props) {
             }
           }}
         >
-          <Form>
-            <div className="flex items-center space-x-2">
-              <Field
+          {/* <Field
+                label="Email"
                 type="email"
                 name="email"
-                className="w-full px-5 py-3 bg-gray-100 rounded-md outline-none grow"
+                as={Input}
+                placeholder="Enter your email"
+                autoComplete="off"
+              /> */}
+          <Form>
+          <div className="grid grid-cols-1 md:grid-cols-1 gap-4">
+              {/* First and Last Name */}
+              <div className="flex space-x-4">
+                <Input type="first" label="First Name" placeholder="Enter your first name" name="firstName" />
+                <Input type="last" label="Last Name" placeholder="Enter your last name" name="lastName" />
+              </div>
+
+              {/* Email */}
+              <Field
+                label="Email"
+                type="email"
+                name="email"
+                as={Input}
                 placeholder="Enter your email"
                 autoComplete="off"
               />
-              <button
-                className="px-5 py-3 font-bold text-gray-100 transition-all bg-gray-800 rounded-md hover:bg-gray-900 hover:scale-105 disabled:opacity-80"
+
+              {/* Comments */}
+              <Textarea type="comments" label="Comments" placeholder="Enter your comments" name="comments" />
+
+              {/* Submit Button */}
+              <Button
+                className="px-5 py-3 font-bold text-[#FAFF00] transition-all bg-[#770707] rounded-lg hover:scale-105"
                 type="submit"
                 disabled={buttonDisabled}
               >
                 {submitting ? "Submitting" : "Submit"}
-              </button>
+              </Button>
             </div>
             {message && (
               <p
