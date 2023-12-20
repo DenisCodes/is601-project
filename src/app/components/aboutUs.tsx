@@ -1,5 +1,4 @@
 'use client';
-import Dessert from '../images/Frame22 and 26.png';
 import Image from 'next/image';
 
 export default function AboutUs() {
@@ -23,7 +22,7 @@ export default function AboutUs() {
         </div>
 
         <div>
-            <Image src={Dessert} alt="Chef" width={550} height={550} />
+            <Image src={'/images/Frame22 and 26.png'} alt="Chef" width={550} height={550} />
         </div>
       </div>
     </div>
