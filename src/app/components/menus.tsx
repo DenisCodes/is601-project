@@ -2,7 +2,7 @@
 import React from 'react';
 import { Card, CardBody } from '@nextui-org/react';
 import Image from 'next/image';
-import './Menus.css';
+import './menus.css';
 
 export default function Menus() {
   return (

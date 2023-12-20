@@ -44,9 +44,9 @@ export default function NewsLetter({}: Props) {
       <div className="w-full p-5 md:p-6 space-y-5 bg-[#B76D38] rounded-xl md:max-w-[600px]">
         {/* Header and description */}
         <div className="pb-2 space-y-3">
-          <h1 className="text-2xl font-black sm:text-2.5xl">
+          <h2 className="text-2xl font-black sm:text-2.5xl">
             Contact Our Incredible Team!
-          </h1>
+          </h2>
         </div>
 
         {/* Formik */}
