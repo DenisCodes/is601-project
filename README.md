@@ -31,7 +31,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 ## Links to documents
 
-[Final Business Analysis](https://github.com/DenisCodes/is601-project/blob/main/Documentations_Links.md)
+[Business Analysis Documents](https://github.com/DenisCodes/is601-project/blob/main/Documentations_Links.md)
 
 [Task Level User Stories](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
 
@@ -40,5 +40,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 [UX Research Report](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/UX_Research_Report.md)
 
 [Presentation](https://docs.google.com/presentation/d/1uUARmd3tmjJOOSGQ2KzGvQwggDJ1wxLqT_n4IuTR5sg/edit?usp=sharing)
+
+[Vercel Link](https://is601-project.vercel.app/)
 
 [Live Demo Recording]()
