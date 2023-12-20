@@ -2,20 +2,13 @@
 import {NextUIProvider} from "@nextui-org/react";
 import Navybar from '../components/navbar';
 import Footer from '../components/footer';
-
-function AboutNav(){
-  return (
-    <div>
-        about
-    </div>
-  )
-}
+import AboutUs from '../components/aboutUs';
 
 export default function About() {
   return (
     <NextUIProvider>
         <Navybar />
-        <AboutNav/>
+        <AboutUs/>
         <Footer />
     </NextUIProvider>
   )

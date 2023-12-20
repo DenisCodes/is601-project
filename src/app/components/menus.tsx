@@ -1,4 +1,4 @@
-// 'use client';
+'use client';
 import React from 'react';
 import { Card, CardBody } from '@nextui-org/react';
 import {Divider} from "@nextui-org/react";
