@@ -1,0 +1,10 @@
+.customCard {
+    box-shadow: none !important;
+    background-color: #B76D38;
+}
+.divider {
+  background-color: '#FCAC45';
+  height: '2px';
+  width: '100%';
+}
+  
