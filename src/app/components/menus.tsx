@@ -9,7 +9,7 @@ export default function Menus() {
     <div className="flex justify-center items-center flex-col mr-10 p-10">
       <h2 className="flex justify-center items-center">Menu</h2>
       <br></br>
-      <Card className='border-none customCard mr-10 p-10'>
+      <Card className='border-none customCard mr-10 p-10' data-testid="menu-card">
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
@@ -31,7 +31,7 @@ export default function Menus() {
         </CardBody>
       </Card>
 
-      <Card className='border-none customCard mr-10 p-10'>
+      <Card className='border-none customCard mr-10 p-10' data-testid="menu-card">
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
@@ -53,7 +53,7 @@ export default function Menus() {
         </CardBody>
       </Card>
 
-      <Card className='border-none customCard mr-10 p-10'>
+      <Card className='border-none customCard mr-10 p-10' data-testid="menu-card">
         <CardBody>
           <div className="grid grid-cols-6 md:grid-cols-12 gap-4 md:gap-2 items-center justify-center">
             <div className="relative col-span-6 md:col-span-4">
