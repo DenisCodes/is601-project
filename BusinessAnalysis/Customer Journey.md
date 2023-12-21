@@ -18,4 +18,4 @@ Maria is now telling all of her friends about this new Italian restaurant in tow
 
 ## Diagram
 
-![Alt text here](../images/SFD.png)
+![Alt text here](../public/images/SFD.png)
