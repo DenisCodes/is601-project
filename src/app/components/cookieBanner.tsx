@@ -26,23 +26,24 @@ export default function CookieBanner(){
     }, [cookieConsent,setCookieConsent]);
 
     return (
-        <div>
+        <div data-testid="cookie-banner">
             {(cookieConsent == null || undefined) && (
-                <div className={`my-10 mx-auto max-w-max md:max-w-screen-sm
+            <div className={`my-10 mx-auto max-w-max md:max-w-screen-sm
                             fixed bottom-0 left-0 right-0 flex
                             px-3 md:px-4 py-3 justify-between items-center 
                             flex-col sm:flex-row gap-4  
                             bg-gray-700 rounded-lg shadow`}>
 
-                    <button className='text-gray-300 cursor-pointer' onClick={onOpen}>
-                        We use <span style={{ color: '#7fb3d5' }}>cookies</span> on our site.
-                    </button>
+                <button data-testid="cookie-banner-message" className='text-gray-300 cursor-pointer' onClick={onOpen}>
+                    We use <span style={{ color: '#7fb3d5' }}>cookies</span> on our site.
+                </button>
 
-                    <div className='flex gap-2'>
-                        <button className='px-5 py-2 text-gray-300 rounded-md border-gray-900' onClick={() => setCookieConsent(false)}>Decline</button>
-                        <button className='bg-gray-900 px-5 py-2 text-white rounded-lg' onClick={() => setCookieConsent(true)}>Allow Cookies</button>
-                    </div>
-                    <Modal isOpen={isOpen} onClose={onClose} scrollBehavior={"inside"}>
+                <div className='flex gap-2'>
+                <button data-testid="cookie-banner-decline" className='px-5 py-2 text-gray-300 rounded-md border-gray-900' onClick={() => setCookieConsent(false)}>Decline</button>
+                <button data-testid="cookie-banner-allow" className='bg-gray-900 px-5 py-2 text-white rounded-lg' onClick={() => setCookieConsent(true)}>Allow Cookies</button>
+                </div>
+
+                <Modal isOpen={isOpen} onClose={onClose} scrollBehavior={"inside"} data-testid="cookie-policy-modal">
                         <ModalContent>
                             <ModalHeader className="flex flex-col gap-1">Cookie Policy</ModalHeader>
                             <ModalBody>
@@ -72,7 +73,7 @@ export default function CookieBanner(){
                                 <p>If you have any questions about this privacy policy or our data practices, please contact us at our email.</p>
                             </ModalBody>
                             <ModalFooter>
-                                <Button color="danger" variant="light" onPress={onClose}>
+                                <Button color="danger" variant="light" onPress={onClose} data-testid="close-modal-button">
                                     Close
                                 </Button>
                             </ModalFooter>

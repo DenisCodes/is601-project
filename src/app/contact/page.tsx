@@ -1,13 +1,13 @@
 'use client'
 import NewsLetter from "../components/newsletter";
-import Image from 'next/image'
+import Image from 'next/image';
 
 export default function Contact() {
   return (
     <div className="mr-10 p-10">
       <h2 className="flex justify-center items-center">Contact Us</h2>
       <div className="flex justify-center items-center mr-10 p-10">
-        <div className="mr-10 p-10">
+        <div className="mr-10 p-10" data-testid="newsletter-container">
           <NewsLetter />
         </div>
 
@@ -21,6 +21,5 @@ export default function Contact() {
       </div>
       <br></br>
     </div>
-    
   );
 }

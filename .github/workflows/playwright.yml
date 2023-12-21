@@ -15,6 +15,10 @@ jobs:
         node-version: 18
     - name: Install dependencies
       run: npm ci
+    - name: Start Dev Server
+      run: npm run dev &
+    - name: Wait for Dev Server to Start
+      run: sleep 10s
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
     - name: Run Playwright tests
