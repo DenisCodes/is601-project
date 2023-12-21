@@ -43,4 +43,4 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 [Vercel Link](https://is601-project.vercel.app/)
 
-[Live Demo Recording]()
+[Live Demo Recording](https://youtu.be/xWDUjSkdbPQ)
