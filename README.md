@@ -31,13 +31,13 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 ## Links to documents
 
-[Business Analysis Documents](https://github.com/DenisCodes/is601-project/blob/main/Documentations_Links.md)
+[Business Analysis Documents](/Documentations_Links.md)
 
-[Task Level User Stories](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
+[Task Level User Stories](/Task%20Level%20User%20Stories/Task%20Level%20User%20Stories.md)
 
 [Figma Design](https://www.figma.com/file/G5rlxJFR4ShAKgxRNkozye/Italian-restaurant-Home-Page?type=design&node-id=0-1&mode=design&t=Ox7mfhSP5ymYB0HQ-0)
 
-[UX Research Report](https://github.com/DenisCodes/is601-project/blob/main/Task%20Level%20User%20Stories/UX_Research_Report.md)
+[UX Research Report](/Task%20Level%20User%20Stories/UX_Research_Report.md)
 
 [Presentation](https://docs.google.com/presentation/d/1uUARmd3tmjJOOSGQ2KzGvQwggDJ1wxLqT_n4IuTR5sg/edit?usp=sharing)
 
